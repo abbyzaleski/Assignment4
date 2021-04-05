@@ -1,0 +1,31 @@
+.navbar {
+  overflow: hidden;
+  background-color: #31cacf;
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.navbar a {
+  display: inline-block;
+  color: #000000;
+  padding: 15px 18px;
+  text-decoration: none;
+  font-size: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 15px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 10px;
+}
+
+.intro-image {
+  padding-top: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
